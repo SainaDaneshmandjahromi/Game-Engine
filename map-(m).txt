@@ -1,0 +1,26 @@
+25x75
+###########################################################################
+#                B       B    O                           B   B           #
+#       D        B       B                                B   B           #
+#BBBBBBBD        B       B    DDDDDDDDDDDDDDD      D      B   BBBBBBBBB   #
+#       D        B       B                         D      B           D   #
+#                B       B                         D      B       D   D   #
+#       BBBBBBBBBB       BBBBBBBBBBBBBBBBBBBBBBBBBBB  BBBBBBBBBBBBD   D   #
+#                B       B                                        D   D   #
+#                        B                                            D   #
+#                        B               DDDDDDDDDDDDDDDDDDDDDD       D   #
+#                        B                                            D   #
+#BBBBBBBBBBBBBBBB        B      D                                     D   #
+#               B        B      DBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB   #
+#               B        B      D                             B           #
+#               B        B                                    B   BBBBBBBB#
+#       B       B        BBBBBBBB     BBBBBBBBBBBBBBBB        B           #
+#       B       B               B                    B        B           #
+#       B       B               B        DDDDDDD     B        BBBBBBBBB   #
+#       B      BBB       D      B                    B                B   #
+#       B                D      B                DDDDDDDDD            B   #
+#       BBBBBBBBBBBBBBBBBDBBBBBBBBBBB                                 B   #
+#                                   B   BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB   #
+#               B                                                         #
+#               B                             T                           #
+###########################################################################

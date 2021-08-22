@@ -1,0 +1,17 @@
+solidblock=B
+deathblock=D
+moveblock=M
+rpoint=*,2,12
+target=T
+wall=#
+up=w
+down=s
+left=a
+right=d
+character=O
+opp=G,O
+put=p,D,5
+time=100
+pause=h
+attack=2
+Exit=q

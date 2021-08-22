@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1562099020 source:f:\uni_time\c\project\the_project\console\main.c
+	"header.h"
+
+1562103058 f:\uni_time\c\project\the_project\console\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<unistd.h>
+	<dos.h>
+
+1562105253 source:f:\uni_time\c\project\the_project\console\readfromfile.c
+	"header.h"
+
+1562105253 source:f:\uni_time\c\project\the_project\console\print.c
+	"header.h"
+
+1562102447 source:f:\uni_time\c\project\the_project\console\ingredients.c
+	"header.h"
+
+1562099277 source:f:\uni_time\c\project\the_project\console\game_moves.c
+	"header.h"
+
+1562105169 source:f:\uni_time\c\project\the_project\console\handle.c
+	"header.h"
+
+1562057292 source:f:\uni_time\c\project\the_project\console\opp_handler.c
+	"header.h"
+
+1562105253 source:f:\uni_time\c\project\the_project\console\theconsole.c
+	"header.h"
+
+1562099277 source:f:\uni_time\c\project\the_project\9732483_9632644_finalproject\game_moves.c
+	"header.h"
+
+1562103058 f:\uni_time\c\project\the_project\9732483_9632644_finalproject\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<unistd.h>
+	<dos.h>
+
+1562105169 source:f:\uni_time\c\project\the_project\9732483_9632644_finalproject\handle.c
+	"header.h"
+
+1562102447 source:f:\uni_time\c\project\the_project\9732483_9632644_finalproject\ingredients.c
+	"header.h"
+
+1562099020 source:f:\uni_time\c\project\the_project\9732483_9632644_finalproject\main.c
+	"header.h"
+
+1562057292 source:f:\uni_time\c\project\the_project\9732483_9632644_finalproject\opp_handler.c
+	"header.h"
+
+1562105253 source:f:\uni_time\c\project\the_project\9732483_9632644_finalproject\print.c
+	"header.h"
+
+1562105335 source:f:\uni_time\c\project\the_project\9732483_9632644_finalproject\readfromfile.c
+	"header.h"
+
+1562105253 source:f:\uni_time\c\project\the_project\9732483_9632644_finalproject\theconsole.c
+	"header.h"
+

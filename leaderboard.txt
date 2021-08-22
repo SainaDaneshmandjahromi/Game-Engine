@@ -1,0 +1,6 @@
+aida=8
+someone=12
+aida=6
+someoneElse=2
+aisa=0
+saina=0aisa=2
